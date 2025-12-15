@@ -1,0 +1,12 @@
+using System;
+
+namespace Treeapp.module;
+
+public class WriteLine
+{
+    public static void print()
+    { 
+    Console.WriteLine("Write this");
+}
+
+}

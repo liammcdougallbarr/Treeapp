@@ -1,0 +1,14 @@
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\bin\Debug\net9.0\Treeapp.exe
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\bin\Debug\net9.0\Treeapp.deps.json
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\bin\Debug\net9.0\Treeapp.runtimeconfig.json
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\bin\Debug\net9.0\Treeapp.dll
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\bin\Debug\net9.0\Treeapp.pdb
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\Treeapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\Treeapp.AssemblyInfoInputs.cache
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\Treeapp.AssemblyInfo.cs
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\Treeapp.csproj.CoreCompileInputs.cache
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\Treeapp.dll
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\refint\Treeapp.dll
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\Treeapp.pdb
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\Treeapp.genruntimeconfig.cache
+C:\Users\Liam.McDougallBarr\Documents\Treeapp\obj\Debug\net9.0\ref\Treeapp.dll
