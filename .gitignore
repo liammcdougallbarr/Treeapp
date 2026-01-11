@@ -1,0 +1,9 @@
+# Ignore build folders
+bin/
+obj/
+.vs/
+
+# Ignore user/editor files
+*.user
+*.suo
+*.log
